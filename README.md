@@ -1,6 +1,6 @@
 # Book recommendation system
 
-Book recommendation system based using the content based filtering method and MapReduce.
+Book recommendation system, using the content based filtering method and MapReduce.
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/61467804/205084333-4b131699-3063-4858-bf31-5cc43e87bf85.png" alt="List of recommendations." width=600 />
